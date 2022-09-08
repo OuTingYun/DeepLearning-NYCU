@@ -24,4 +24,11 @@ The red circle in encoder is residual block that reduce the dimension in picture
 
 The red circle in decoder is residual block that upsampling the dimension.
 
+## Reference
+
+https://github.com/GlassyWing/nvae
+
+https://github.com/NVlabs/NVAE
+
+
 Partner: 謝文棋、李詰琳
