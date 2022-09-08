@@ -26,6 +26,6 @@ learn and implement two deep reinforcement algorithms
 **Implement Multi-Scale group on Deep Hierarchical VAE
 & Analyze different architecture**
 
-By reading the paper <NVAE: A Deep Hierarchical Variational Autoencoder>,
+By reading the paper [<NVAE: A Deep Hierarchical Variational Autoencoder>](https://arxiv.org/abs/2007.03898),
 we start to implement the NVAE structure.
 
