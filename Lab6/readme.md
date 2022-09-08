@@ -1,7 +1,4 @@
 # Lab6
-311551087
-資科工所
-歐亭昀
 ## 1.Introduction
 ### 1.1 Requirement
 In this lab, you will learn and implement two deep reinforcement algorithms by completing the following two tasks: 

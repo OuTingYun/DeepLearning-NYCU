@@ -1,5 +1,5 @@
 # Lab1
-資科工碩 學號：311551087 歐亭昀
+
 ## 1. Introduction
 ### 1.1 Requirements
 

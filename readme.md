@@ -21,7 +21,7 @@ Implement a conditional GAN and generate synthetic images based on multi-labels 
 ## Lab6
 learn and implement two deep reinforcement algorithms
 
-## Final:
+## Final
 
 **Implement Multi-Scale group on Deep Hierarchical VAE
 & Analyze different architecture**

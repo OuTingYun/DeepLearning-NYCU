@@ -1,7 +1,5 @@
 # Lab2
 
-資工碩一 學號：311551087 歐亭昀
-
 ## 1. Introduction
 
 這次的作業，需要用 pytorch 建構出 EEGNet 和 DeepConvNet 來分類 EEG signals，並且分別比較 ReLU, Leaky ReLU 和 ELU 的效果差異

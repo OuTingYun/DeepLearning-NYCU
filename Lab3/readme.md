@@ -1,10 +1,4 @@
 # Lab3
-資⼯碩⼀ 
-
-311551087 
-
-歐亭昀
-
 ## 1.Introduction (20%) 
 Design a Network to classify diabetic retinopathy level(0-4).(糖尿病所引發視網膜病變) 
 
