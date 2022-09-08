@@ -1,15 +1,22 @@
 # Deep Learning and Practice
 
-## Labs Description
+## Lab1
 
-**Lab1**:Parcticing Backward propagation.
+Parcticing Backward propagation.
 
-**Lab2**:Contruct EEGNet and DeepConvNet to classify EEG signal.
 
-**Lab3**:Design a Network to classify diabetic retinopathy level.
+## Lab2
 
-**Lab4**:Implement a conditional Variational Autoencoder (CVAE) for video prediction.
+Contruct EEGNet and DeepConvNet to classify EEG signal.
 
-**Lab5**:Implement a conditional GAN and generate synthetic images based on multi-labels conditions.
+## Lab3
+Design a Network to classify diabetic retinopathy level.
 
-**Lab6**:learn and implement two deep reinforcement algorithms
+## Lab4
+Implement a conditional Variational Autoencoder (CVAE) for video prediction.
+
+## Lab5
+Implement a conditional GAN and generate synthetic images based on multi-labels conditions.
+
+## Lab6
+learn and implement two deep reinforcement algorithms
