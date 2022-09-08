@@ -23,3 +23,5 @@ each dimension affect the output image’s charactxeristic.
 The red circle in encoder is residual block that reduce the dimension in picture.
 
 The red circle in decoder is residual block that upsampling the dimension.
+
+Partner: 謝文棋、李詰琳
