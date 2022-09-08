@@ -20,3 +20,12 @@ Implement a conditional GAN and generate synthetic images based on multi-labels 
 
 ## Lab6
 learn and implement two deep reinforcement algorithms
+
+## Final:
+
+**Implement Multi-Scale group on Deep Hierarchical VAE
+& Analyze different architecture**
+
+By reading the paper <NVAE: A Deep Hierarchical Variational Autoencoder>,
+we start to implement the NVAE structure.
+
